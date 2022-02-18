@@ -3,7 +3,10 @@ layout: post
 title: Introduction Statistics Group Meeting
 ---
 
-Coming soon.
+The statistics group meeting is an initiative for the members of the Leiden University statistics group to keep up with each other’s research. 
+We strive to have biweekly gatherings at the Snellius building, during which one of the members will present their work. 
+After the presentation, there should be plenty of time for discussion.
+The meetings are also open to any interested students.
 
 <!---
 <div class="message">

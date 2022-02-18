@@ -1,7 +1,7 @@
 # Setup
 title:               Tyron Lardy
 tagline:             'MSc Mathematics'
-description:         'I am a PhD student at the <a href="https://www.universiteitleiden.nl/en/science/mathematics" target="_blank">Mathematical Institute</a> of Leiden University, supervised by <a href="http://www.grunwald.nl" target="_blank">Peter Grünwald</a>. This website is a place where I share about my research. Additionally, any updates regarding the statistics group meetings can be found here.'
+description:         'I am a PhD student at the <a href="https://www.universiteitleiden.nl/en/science/mathematics" target="_blank">Mathematical Institute</a> of Leiden University, supervised by <a href="http://www.grunwald.nl" target="_blank">Peter Grünwald</a>. For now, this website will primarly be used for updates regarding the statistics group meetings at Leiden University.'
 url:                 https://tlardy.github.io
 baseurl:             ''
 paginate:            5

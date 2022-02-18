@@ -10,25 +10,49 @@ title: Statistics Group Meeting
 -->
 
 The statistics group meeting is an initiative for the members of the Leiden University statistics group to keep up with each other's research. We strive to have
-biweekly gatherings at the Snellius, during which one of the members will present their work. After the presentation, there should be plenty of time
+biweekly gatherings at the Snellius building, during which one of the members will present their work. After the presentation, there should be plenty of time
 for discussion. In the days leading up to a meeting, there will be a post on the [home page]({{ site.url }}) with an abstract of the talk and other relevant 
 details (time, room, etc.).
 
 ## Schedule
 
-Coming soon.
-
 <table>
   <thead>
     <tr>
-	    <th>Date</th>
+	    <th>Date & Time</th>
+      <th>Room</th>
       <th>Speaker</th>
       <th>Topic</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-	    <td>TBD</td>
+	    <td>15 February 2022 13:00</td>
+      <td>312</td>
+      <td>Salvatore Battaglia</td>
+      <td>A frailty competing risks model</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+	    <td>01 March 2022 13:00</td>
+      <td>TBD</td>
+      <td>Prof. dr. Grünwald</td>
+      <td>Hypothesis testing with E-variables</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+	    <td>15 March 2022 13:00</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+	    <td>29 March 2022 13:00</td>
+      <td>TBD</td>
       <td>TBD</td>
       <td>TBD</td>
     </tr>
@@ -37,15 +61,19 @@ Coming soon.
 
 ## Group Members
 
-Current members of the group meeting:
+Current members of the statistics group:
 
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/marta-fiocco#tab-1" target="_blank">Prof. dr. M. Fiocco</a>
+* <a href="http://www.grunwald.nl" target="_blank">Prof. dr. P. Grünwald</a>
+* <a href="https://www.lumc.nl/org/bds/medewerkers/hputter" target="_blank">Prof. dr. H. Putter</a>
+* <a href="https://www.universiteitleiden.nl/medewerkers/valentina-masarotto#tab-1" target="_blank">Dr. V. Masarotto</a>
+* <a href="https://mirkosignorelli.github.io" target="_blank">Dr. M. Signorelli</a>
 * <a href="https://www.universiteitleiden.nl/en/staffmembers/vera-arntzen#tab-1" target="_blank">Vera Arntzen</a>
-* <a href="https://www.universiteitleiden.nl/en/staffmembers/marta-fiocco#tab-1" target="_blank">Marta Fiocco</a>
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/salvatore-battaglia-salvatore#tab-1" target="_blank">Salvatore Battaglia</a>
 * <a href="https://www.universiteitleiden.nl/en/staffmembers/daniel-gomon#tab-1" target="_blank">Daniel Gomon</a>
-* <a href="http://www.grunwald.nl" target="_blank">Peter Grünwald</a>
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/amine-hadji#tab-1">Amine Hadji</a>
 * <a href="{{ site.url }}/contact/">Tyron Lardy</a>
-* <a href="https://www.universiteitleiden.nl/en/staffmembers/maria-benedito-quelhas#tab-1" target="_blank">Maria Benedito Quelhas</a>
-* <a href="https://mirkosignorelli.github.io" target="_blank">Mirko Signorelli</a>
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/marta-spreafico#tab-1" target="_blank">Marta Spreafico</a>
 
 
 Have questions, remarks, or suggestions? Feel free to send an email to <a href="mailto:t.d.lardy@math.leidenuniv.nl">t.d.lardy AT math.leidenuniv.nl</a>
