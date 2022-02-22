@@ -35,7 +35,7 @@ details (time, room, etc.).
   </tbody>
   <tbody>
     <tr>
-	    <td>01 March 2022 13:00</td>
+	    <td>22 March 2022 13:00</td>
       <td>TBD</td>
       <td>Prof. dr. Grünwald</td>
       <td>Hypothesis testing with E-variables</td>
@@ -43,7 +43,7 @@ details (time, room, etc.).
   </tbody>
   <tbody>
     <tr>
-	    <td>15 March 2022 13:00</td>
+	    <td>05 April 2022 13:00</td>
       <td>TBD</td>
       <td>TBD</td>
       <td>TBD</td>
@@ -51,7 +51,7 @@ details (time, room, etc.).
   </tbody>
   <tbody>
     <tr>
-	    <td>29 March 2022 13:00</td>
+	    <td>19 April 2022 13:00</td>
       <td>TBD</td>
       <td>TBD</td>
       <td>TBD</td>
