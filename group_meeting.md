@@ -68,12 +68,20 @@ Current members of the statistics group:
 * <a href="https://www.lumc.nl/org/bds/medewerkers/hputter" target="_blank">Prof. dr. H. Putter</a>
 * <a href="https://www.universiteitleiden.nl/medewerkers/valentina-masarotto#tab-1" target="_blank">Dr. V. Masarotto</a>
 * <a href="https://mirkosignorelli.github.io" target="_blank">Dr. M. Signorelli</a>
-* <a href="https://www.universiteitleiden.nl/en/staffmembers/vera-arntzen#tab-1" target="_blank">Vera Arntzen</a>
-* <a href="https://www.universiteitleiden.nl/en/staffmembers/salvatore-battaglia-salvatore#tab-1" target="_blank">Salvatore Battaglia</a>
-* <a href="https://www.universiteitleiden.nl/en/staffmembers/daniel-gomon#tab-1" target="_blank">Daniel Gomon</a>
-* <a href="https://www.universiteitleiden.nl/en/staffmembers/amine-hadji#tab-1">Amine Hadji</a>
-* <a href="{{ site.url }}/contact/">Tyron Lardy</a>
-* <a href="https://www.universiteitleiden.nl/en/staffmembers/marta-spreafico#tab-1" target="_blank">Marta Spreafico</a>
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/vera-arntzen#tab-1" target="_blank">Vera Arntzen, PhD candidate</a>
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/salvatore-battaglia-salvatore#tab-1" target="_blank">Salvatore Battaglia, PhD candidate</a>
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/daniel-gomon#tab-1" target="_blank">Daniel Gomon, PhD candidate</a>
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/amine-hadji#tab-1">Amine Hadji, PhD candidate</a>
+* <a href="{{ site.url }}/contact/">Tyron Lardy, PhD candidate</a>
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/marta-spreafico#tab-1" target="_blank">Marta Spreafico, PhD candidate</a>
+* Yibin Feng, MSc student
+* Victor van der Horst, MSc student
+* Tijn Jacobs, MSc student
+* Marco Lips, MSc student
+* Silke Rice, BSc student
+* Eva Rovan, BSc student
+* Emily Segers, BSc student
+* Jelle van der Voort, MSc student
 
 
 Have questions, remarks, or suggestions? Feel free to send an email to <a href="mailto:t.d.lardy@math.leidenuniv.nl">t.d.lardy AT math.leidenuniv.nl</a>
