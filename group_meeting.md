@@ -45,8 +45,8 @@ details (time, room, etc.).
     <tr>
 	    <td>05 April 2022 13:00</td>
       <td>401</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>Daniel Gomon</td>
+      <td>Survival Quality Control Charts</td>
     </tr>
   </tbody>
   <tbody>
