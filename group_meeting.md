@@ -66,6 +66,7 @@ Current members of the statistics group:
 * <a href="https://www.universiteitleiden.nl/en/staffmembers/marta-fiocco#tab-1" target="_blank">Prof. dr. M. Fiocco</a>
 * <a href="http://www.grunwald.nl" target="_blank">Prof. dr. P. Grünwald</a>
 * <a href="https://www.lumc.nl/org/bds/medewerkers/hputter" target="_blank">Prof. dr. H. Putter</a>
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/odysseas-kanavetas#tab-1" target="_blank">Dr. O. Kanavetas</a>
 * <a href="https://www.universiteitleiden.nl/medewerkers/valentina-masarotto#tab-1" target="_blank">Dr. V. Masarotto</a>
 * <a href="https://mirkosignorelli.github.io" target="_blank">Dr. M. Signorelli</a>
 * <a href="https://www.universiteitleiden.nl/en/staffmembers/amine-hadji#tab-1" target="_blank">Amine Hadji, lecturer</a>
