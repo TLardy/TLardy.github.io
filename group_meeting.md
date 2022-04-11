@@ -38,7 +38,7 @@ details (time, room, etc.).
 	    <td>22 March 2022 13:00</td>
       <td>401</td>
       <td>Prof. dr. Grünwald</td>
-      <td>Hypothesis testing with E-variables</td>
+      <td>E Is for Evidence</td>
     </tr>
   </tbody>
   <tbody>
@@ -54,7 +54,7 @@ details (time, room, etc.).
 	    <td>19 April 2022 13:00</td>
       <td>401</td>
       <td>Amine Hadji</td>
-      <td>TBD</td>
+      <td>Uncertainty quantification using Gaussian Process with squared exponential kernel</td>
     </tr>
   </tbody>
 </table>
@@ -68,10 +68,10 @@ Current members of the statistics group:
 * <a href="https://www.lumc.nl/org/bds/medewerkers/hputter" target="_blank">Prof. dr. H. Putter</a>
 * <a href="https://www.universiteitleiden.nl/medewerkers/valentina-masarotto#tab-1" target="_blank">Dr. V. Masarotto</a>
 * <a href="https://mirkosignorelli.github.io" target="_blank">Dr. M. Signorelli</a>
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/amine-hadji#tab-1" target="_blank">Amine Hadji, lecturer</a>
 * <a href="https://www.universiteitleiden.nl/en/staffmembers/vera-arntzen#tab-1" target="_blank">Vera Arntzen, PhD candidate</a>
 * <a href="https://www.universiteitleiden.nl/en/staffmembers/salvatore-battaglia-salvatore#tab-1" target="_blank">Salvatore Battaglia, PhD candidate</a>
 * <a href="https://www.universiteitleiden.nl/en/staffmembers/daniel-gomon#tab-1" target="_blank">Daniel Gomon, PhD candidate</a>
-* <a href="https://www.universiteitleiden.nl/en/staffmembers/amine-hadji#tab-1">Amine Hadji, PhD candidate</a>
 * <a href="{{ site.url }}/contact/">Tyron Lardy, PhD candidate</a>
 * <a href="https://www.universiteitleiden.nl/en/staffmembers/marta-spreafico#tab-1" target="_blank">Marta Spreafico, PhD candidate</a>
 * Yibin Feng, MSc student
