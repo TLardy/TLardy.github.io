@@ -51,8 +51,8 @@ details (time, room, etc.).
   </tbody>
   <tbody>
     <tr>
-	    <td>19 April 2022 13:00</td>
-      <td>401</td>
+	    <td>26 April 2022 13:00</td>
+      <td>TBD</td>
       <td>Amine Hadji</td>
       <td>Uncertainty quantification using Gaussian Process with squared exponential kernel</td>
     </tr>

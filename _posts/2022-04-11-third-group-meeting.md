@@ -3,7 +3,9 @@ layout: post
 title: Third Statistics Group Meeting (Amine Hadji, MSc)
 ---
 
-The third statistics group meeting will be held on Tuesday 19/04 from 13.00 to 14.00 in Snellius 401. 
+POSTPONED TO 26/04 from 13.00-14.00, location unknown.
+
+The third statistics group meeting will be held on <s>Tuesday 19/04 from 13.00 to 14.00 in Snellius 401</s> .
 The speaker for this meeting is <a href="https://www.universiteitleiden.nl/en/staffmembers/amine-hadji#tab-1" target="_blank">Amine Hadji</a>.
 Amine started his PhD at Leiden University in 2016, focussing mainly on the theoretical study of Bayesian non-parametric methods.
 He has currently taken on a role as lecturer, while finishing his PhD. His talk ‘Uncertainty quantification using Gaussian Process with 
