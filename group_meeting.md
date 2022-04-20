@@ -43,18 +43,10 @@ details (time, room, etc.).
   </tbody>
   <tbody>
     <tr>
-	    <td><s>05 April 2022 13:00</s></td>
-      <td><s>401</s></td>
-      <td><s>Daniel Gomon</s></td>
-      <td><s>Survival Quality Control Charts</s></td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
 	    <td>26 April 2022 13:00</td>
       <td>402</td>
-      <td>Amine Hadji</td>
-      <td>Uncertainty quantification using Gaussian Process with squared exponential kernel</td>
+      <td>Daniel Gomon</td>
+      <td>Survival Quality Control Charts</td>
     </tr>
   </tbody>
 </table>

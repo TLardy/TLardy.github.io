@@ -1,15 +1,12 @@
 ---
 layout: post
-title: Third Statistics Group Meeting (Amine Hadji, MSc)
+title: "Continuous time control charts: detecting changes in the quality of care (Daniel Gomon, MSc)"
 ---
 
-POSTPONED TO 26/04 from 13.00-14.00 in Snellius 402.
+The third statistics group meeting will be held on Tuesday 26/04 from 13.00 to 14.00 in Snellius 402.
+The speaker for this meeting is <a href="https://www.universiteitleiden.nl/en/staffmembers/daniel-gomon#tab-1" target="_blank">Daniel Gomon</a>.
+Daniel started his PhD at Leiden University in 2021, continuing the research he did for his Master's project on continuous time control charts. 
+This work won him the prize of <a href="https://platformwiskunde.nl/msc-thesisprijs/" target="_blank">'Best Thesis in Applied Math Award 2021'</a> awarded by Platform Wiskunde Nederland. 
+He will delight us with a modified version of the talk that impressed the judges:
 
-The third statistics group meeting will be held on <s>Tuesday 19/04 from 13.00 to 14.00 in Snellius 401</s> .
-The speaker for this meeting is <a href="https://www.universiteitleiden.nl/en/staffmembers/amine-hadji#tab-1" target="_blank">Amine Hadji</a>.
-Amine started his PhD at Leiden University in 2016, focussing mainly on the theoretical study of Bayesian non-parametric methods.
-He has currently taken on a role as lecturer, while finishing his PhD. His talk ‘Uncertainty quantification using Gaussian Process with 
-squared exponential kernel’ will give us a glimpse of the research he has been doing. The abstract can be found below.
-
-"Gaussian processes are widely used in various fields of applications. Arguably, one of the most popular and frequently used covariance kernel is the squared exponential kernel. As typical draws from the corresponding Gaussian process have too smooth sample paths, it is common to rescale the kernel. For optimal rescaling one applies in practice empirical or hierarchical Bayes methods. The theoretical literature focuses mainly on the recovery of the underlying functional parameter of interest in context of nonparametric regression and classification and derives (nearly) optimal posterior contraction rates. We investigate the coverage properties of the corresponding credible sets in context of the Gaussian white noise model (which is closely related to the above models). We show that the resulting posterior distribution is not suitable for uncertainty quantification as the credible sets will have coverage tending to zero for typical signals. On the other hand, blowing the radius of our credible set by a log n factor or tuning the rescaling parameter allows the rescaled Gaussian process to encompass the truth.. The derived theoretical findings are demonstrated on a thorough simulation study, where amongst others we obtain that Gaussian processes with squared exponential kernel have substantially worse coverage properties than Gaussian processes with Matern kernel (for instance) in context of nonparametric regression and classification."
-
+"Rapidly detecting problems in the quality of care is of utmost importance for the well-being of patients. Without proper inspection schemes, such problems can go undetected for years. Cumulative sum (CUSUM) charts have proven to be useful for quality control, yet available methodology for survival outcomes is limited. The few available continuous time inspection charts usually require the researcher to specify an expected increase in the failure rate in advance, thereby requiring prior knowledge about the problem at hand.  Misspecifying parameters can lead to false positive alerts and large detection delays. To solve this problem, we take a more general approach to derive the new CGR-CUSUM chart. We find an expression for the approximate average run length (average time to detection) and illustrate the possible gain in detection speed by using the CGR-CUSUM over the funnel plot, Bernoulli CUSUM and Biswas & Kalbfleisch (2008) CUSUM on a real-life data set from the Dutch Arthroplasty Register as well as in simulation studies. Besides the inspection of medical procedures, the CGR-CUSUM can also be used for other real time inspection schemes such as industrial production lines and quality control of services."
