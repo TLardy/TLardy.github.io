@@ -61,8 +61,8 @@ details (time, room, etc.).
     <tr>
 	    <td>24 May 2022 13:00</td>
       <td>402</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>I-Fan Lin</td>
+      <td>Distributed Gaussian processes for nonparametric regression and classification</td>
     </tr>
   </tbody>
 </table>
