@@ -68,7 +68,7 @@ details (time, room, etc.).
   <tbody>
     <tr>
 	    <td>05 July 2022 15:00</td>
-      <td>TBD</td>
+      <td>401</td>
       <td>Massimo Attanasio</td>
       <td>Can statistics be helpful in detecting electoral fraud?</td>
     </tr>
@@ -76,7 +76,7 @@ details (time, room, etc.).
   <tbody>
     <tr>
 	    <td>05 July 2022 16:00</td>
-      <td>TBD</td>
+      <td>401</td>
       <td>Ronald Geskus</td>
       <td>TBD</td>
     </tr>
