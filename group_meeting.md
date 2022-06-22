@@ -65,6 +65,38 @@ details (time, room, etc.).
       <td>Distributed Gaussian processes for nonparametric regression and classification</td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+	    <td>05 July 2022 15:00</td>
+      <td>TBD</td>
+      <td>Massimo Attanasio</td>
+      <td>Can statistics be helpful in detecting electoral fraud?</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+	    <td>05 July 2022 16:00</td>
+      <td>TBD</td>
+      <td>Ronald Geskus</td>
+      <td>TBD</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+	    <td>07 July 2022 15:00</td>
+      <td>401</td>
+      <td>Marco Enea</td>
+      <td>TBD</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+	    <td>07 July 2022 16:00</td>
+      <td>401</td>
+      <td>Andrea Priulla</td>
+      <td>Does taking additional Maths classes in high school affect academic outcomes?</td>
+    </tr>
+  </tbody>
 </table>
 
 ## Group Members
