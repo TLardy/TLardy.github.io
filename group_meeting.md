@@ -70,15 +70,23 @@ details (time, room, etc.).
 	    <td>05 July 2022 15:00</td>
       <td>401</td>
       <td>Massimo Attanasio</td>
-      <td>Can statistics be helpful in detecting electoral fraud?</td>
+      <td><a href="{{ site.url }}/2022/06/29/attanasio/" target="_blank">Can statistics be helpful in detecting electoral fraud?</a></td>
     </tr>
   </tbody>
   <tbody>
     <tr>
-	    <td>05 July 2022 16:00</td>
+	    <td>05 July 2022 15:45</td>
       <td>401</td>
       <td>Ronald Geskus</td>
-      <td>TBD</td>
+      <td><a href="{{ site.url }}/2022/06/29/geskus/" target="_blank">Nonparametric estimation of the event probability using redistribution and weights</a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+	    <td>05 July 2022 16:30</td>
+      <td>401</td>
+      <td>Martina Vittorietti</td>
+      <td><a href="{{ site.url }}/2022/06/29/1vittorietti/" target="_blank">Does taking additional Maths classes in high school affect academic outcomes?</a></td>
     </tr>
   </tbody>
   <tbody>
@@ -86,15 +94,23 @@ details (time, room, etc.).
 	    <td>07 July 2022 15:00</td>
       <td>401</td>
       <td>Marco Enea</td>
-      <td>TBD</td>
+      <td><a href="{{ site.url }}/2022/06/29/Enea/" target="_blank">Comparing treatments in hepatocellular carcinoma: a two-step IPD network meta-analysis</a></td>
     </tr>
   </tbody>
   <tbody>
     <tr>
-	    <td>07 July 2022 16:00</td>
+	    <td>07 July 2022 15:45</td>
       <td>401</td>
       <td>Andrea Priulla</td>
-      <td>Does taking additional Maths classes in high school affect academic outcomes?</td>
+      <td><a href="{{ site.url }}/2022/06/29/priulla/" target="_blank">Gender differences in Italian university students’ paths up to the master’s degree enrolment</a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+	    <td>07 July 2022 16:30</td>
+      <td>401</td>
+      <td>Vincenzo Giuseppe Genova</td>
+      <td><a href="{{ site.url }}/2022/06/29/genova/" target="_blank">Student mobility: A network approach to discover chain migration patterns in higher education</a></td>
     </tr>
   </tbody>
 </table>
