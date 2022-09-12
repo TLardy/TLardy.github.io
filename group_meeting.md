@@ -131,14 +131,6 @@ Current members of the statistics group:
 * <a href="https://www.universiteitleiden.nl/en/staffmembers/daniel-gomon#tab-1" target="_blank">Daniel Gomon, PhD candidate</a>
 * <a href="{{ site.url }}/contact/">Tyron Lardy, PhD candidate</a>
 * <a href="https://www.universiteitleiden.nl/en/staffmembers/marta-spreafico#tab-1" target="_blank">Marta Spreafico, PhD candidate</a>
-* Yibin Feng, MSc student
-* Victor van der Horst, MSc student
-* Tijn Jacobs, MSc student
-* Marco Lips, MSc student
-* Silke Rice, BSc student
-* Eva Rovan, BSc student
-* Emily Segers, BSc student
-* Jelle van der Voort, MSc student
 
 
 Have questions, remarks, or suggestions? Feel free to send an email to <a href="mailto:t.d.lardy@math.leidenuniv.nl">t.d.lardy AT math.leidenuniv.nl</a>
