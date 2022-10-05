@@ -27,6 +27,14 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td> 11 October 2022 12:00</td>
+      <td>176</td>
+      <td>Salvatore Battaglia</td>
+      <td><a href="{{ site.url }}/2022/10/11/seventh-group-meeting" target="_blank">Vertical models in the presence of random effects</a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
 	    <td>07 July 2022 16:30</td>
       <td>401</td>
       <td>Vincenzo Giuseppe Genova</td>
