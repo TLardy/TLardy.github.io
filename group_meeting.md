@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td> 01 November 2022 12:30</td>
+      <td> 176 </td>
+      <td>Alexander Dürre</td>
+      <td><a href="{{ site.url }}/2022/11/01/eighth-group-meeting" target="_blank">Depth conditioned functional curves</a></td>
+    </tr>
+    <tr>
       <td> 11 October 2022 12:00</td>
       <td>176</td>
       <td>Salvatore Battaglia</td>
