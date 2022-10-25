@@ -32,88 +32,66 @@ with an abstract of the talk and other relevant details (time, room, etc.).
       <td>Salvatore Battaglia</td>
       <td><a href="{{ site.url }}/2022/10/11/seventh-group-meeting" target="_blank">Vertical models in the presence of random effects</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
 	    <td>07 July 2022 16:30</td>
       <td>401</td>
       <td>Vincenzo Giuseppe Genova</td>
       <td><a href="{{ site.url }}/2022/06/29/genova/" target="_blank">Student mobility: A network approach to discover chain migration patterns in higher education</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
 	    <td>07 July 2022 15:45</td>
       <td>401</td>
       <td>Andrea Priulla</td>
       <td><a href="{{ site.url }}/2022/06/29/priulla/" target="_blank">Gender differences in Italian university students’ paths up to the master’s degree enrolment</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
 	    <td>07 July 2022 15:00</td>
       <td>401</td>
       <td>Marco Enea</td>
       <td><a href="{{ site.url }}/2022/06/29/Enea/" target="_blank">Comparing treatments in hepatocellular carcinoma: a two-step IPD network meta-analysis</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
 	    <td>05 July 2022 16:30</td>
       <td>401</td>
       <td>Martina Vittorietti</td>
       <td><a href="{{ site.url }}/2022/06/29/1vittorietti/" target="_blank">Does taking additional Maths classes in high school affect academic outcomes?</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
 	    <td>05 July 2022 15:45</td>
       <td>401</td>
       <td>Ronald Geskus</td>
       <td><a href="{{ site.url }}/2022/06/29/geskus/" target="_blank">Nonparametric estimation of the event probability using redistribution and weights</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
 	    <td>05 July 2022 15:00</td>
       <td>401</td>
       <td>Massimo Attanasio</td>
       <td><a href="{{ site.url }}/2022/06/29/attanasio/" target="_blank">Can statistics be helpful in detecting electoral fraud?</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
 	    <td>24 May 2022 13:00</td>
       <td>402</td>
       <td>I-Fan Lin</td>
       <td>Distributed Gaussian processes for nonparametric regression and classification</td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
 	    <td>10 May 2022 13:00</td>
       <td>402</td>
       <td>Amine Hadji</td>
       <td>Uncertainty quantification using Gaussian Process with squared exponential kernel</td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
 	    <td>26 April 2022 13:00</td>
       <td>402</td>
       <td>Daniel Gomon</td>
       <td>Survival Quality Control Charts</td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
 	    <td>22 March 2022 13:00</td>
       <td>401</td>
       <td>Prof. dr. Grünwald</td>
       <td>E Is for Evidence</td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
 	    <td>15 February 2022 13:00</td>
       <td>312</td>
