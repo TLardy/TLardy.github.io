@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td> 22 November 2022 TBD </td>
+      <td> TBD </td>
+      <td> Cristian Spitoni </td>
+      <td> Dynamic predictions for early detection of ICU acquired infections (ICU-AI)</td>
+    </tr>
+    <tr>
       <td> 01 November 2022 12:30</td>
       <td> 176 </td>
       <td>Alexander Dürre</td>
