@@ -27,10 +27,10 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
-      <td> 22 November 2022 TBD </td>
-      <td> TBD </td>
+      <td> 22 November 2022 12:30 </td>
+      <td> 176 </td>
       <td> Cristian Spitoni </td>
-      <td> Dynamic predictions for early detection of ICU acquired infections (ICU-AI)</td>
+      <td><a href="{{ site. url }}/2022/11/22/ninth-group-meeting" target="_blank">Dynamic predictions for early detection of ICU acquired infections (ICU-AI)</a></td>
     </tr>
     <tr>
       <td> 01 November 2022 12:30</td>
