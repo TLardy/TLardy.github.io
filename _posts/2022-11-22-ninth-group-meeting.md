@@ -4,7 +4,7 @@ title: "Dynamic predictions for early detection of ICU acquired infections (ICU-
 ---
 
 The ninth statistics group meeting will take place on Tuesday Nov. 22nd from 12:30-13:30 in Snellius 176. 
-We will be joined by guest speaker Cristian Spitoni from the Utrecht University:  
+We will be joined by guest speaker Cristian Spitoni from Utrecht University:  
 
 <em>
 "The major cause of mortality in the ICU (Intensive Care Unit) is represented by secondary infections. Therefore, I will discuss the possibility of using Artificial Neural Networks (ANNs) in order to predict the clinical onset of ICU-AI. The ANN is trained with high frequency time-series of vital signals (e.g. Heart Rate, Blood Pressure, Breath Rate and SaO_2), obtained from electronic health records (EHR).
