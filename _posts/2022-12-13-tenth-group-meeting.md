@@ -3,7 +3,7 @@ layout: post
 title: "Wasserstein-based soft clustering of functional covariances (Valentina Masarotto)" 
 ---
 
-The ninth statistics group meeting will take place on Tuesday Dec. 13nd from 12:30-13:30 in Snellius 176. 
+The ninth statistics group meeting will take place on Tuesday Dec. 13th from 12:30-13:30 in Snellius 176. 
 During this meeting, Valentina Masarotto will present the work she has done on the clustering of functional data:
 
 <em>
