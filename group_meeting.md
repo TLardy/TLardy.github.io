@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td> 13 December 2022 12:30 </td>
+      <td> 176 </td>
+      <td> Valentina Masarotto </td>
+      <td><a href="{{ site. url }}/2022/12/13/tenth-group-meeting" target="_blank">Wasserstein-based soft clustering of functional covariances</a></td>
+    </tr>
+    <tr>
       <td> 22 November 2022 12:30 </td>
       <td> 176 </td>
       <td> Cristian Spitoni </td>
