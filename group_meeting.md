@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td> 31 Januari 2023 12:30 </td>
+      <td> 176 </td>
+      <td> Eva Riccomagno </td>
+      <td><a href="{{ site.url }}/2023/01/31/eleventh-group-meeting" target="_blank">Learning star shaped distributions: a mixed approach</a></td>
+    </tr>
+    <tr>
       <td> 13 December 2022 12:30 </td>
       <td> 176 </td>
       <td> Valentina Masarotto </td>
