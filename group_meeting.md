@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td> 21 February 2023 12:00 </td>
+      <td> 176 </td>
+      <td> Tyron Lardy </td>
+      <td><a href="{{ site.url }}/2023/02/21/twelfth-group-meeting" target="_blank">Anytime-Valid Tests of Conditional Independence Under Model-X</a></td>
+    </tr>
+    <tr>
       <td> 31 Januari 2023 12:30 </td>
       <td> 176 </td>
       <td> Eva Riccomagno </td>
