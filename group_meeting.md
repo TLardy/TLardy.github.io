@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td> 28 March 2023 12:00 </td>
+      <td> 176 </td>
+      <td> Richard Post </td>
+      <td><a href="{{ site.url }}/2023/03/28/13th-group-meeting" target="_blank">The built-in selection bias of hazard ratios formalized</a></td>
+    </tr>
+    <tr>
       <td> 21 February 2023 12:00 </td>
       <td> 176 </td>
       <td> Tyron Lardy </td>
