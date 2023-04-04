@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td> 18 April 2023 12:00 </td>
+      <td> 176 </td>
+      <td> Daniel Gomon </td>
+      <td><a href="{{ site.url }}/2023/04/18/14th-group-meeting" target="_blank">Dynamic prediction of survival using multivariate Functional Principal Component Analysis: a strict landmarking approach</a></td>
+    </tr>
+    <tr>
       <td> 28 March 2023 12:00 </td>
       <td> 176 </td>
       <td> Richard Post </td>
