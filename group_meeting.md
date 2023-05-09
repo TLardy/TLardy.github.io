@@ -27,6 +27,24 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>13 June 2023 12:00</td>
+      <td>176</td>
+      <td>Vera Arntzen</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>06 June 2023 15:00</td>
+      <td>176</td>
+      <td>Sophie Retif</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>23 May 2023 12:00</td>
+      <td> 176 </td>
+      <td> Tijn Jacobs </td>
+      <td> TBD </td>
+    </tr>
+    <tr>
       <td> 18 April 2023 12:00 </td>
       <td> 176 </td>
       <td> Daniel Gomon </td>
