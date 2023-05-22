@@ -42,7 +42,7 @@ with an abstract of the talk and other relevant details (time, room, etc.).
       <td>23 May 2023 12:00</td>
       <td> 176 </td>
       <td> Tijn Jacobs </td>
-      <td> TBD </td>
+      <td><a href="{{ site.url }}/2023/05/23/15th-group-meeting" target="_blank">Identifiability aspects of the cure model in the presence of competing risks</a></td>
     </tr>
     <tr>
       <td> 18 April 2023 12:00 </td>
