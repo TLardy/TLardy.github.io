@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>28 June 2023 12:00</td>
+      <td>176</td>
+      <td>Raf Cruyff</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
       <td>13 June 2023 12:00</td>
       <td>176</td>
       <td>Vera Arntzen</td>
@@ -36,7 +42,7 @@ with an abstract of the talk and other relevant details (time, room, etc.).
       <td>06 June 2023 15:00</td>
       <td>176</td>
       <td>Sophie Retif</td>
-      <td>TBD</td>
+      <td><a href="{{ site.url }}/2023/06/06/16th-group-meeting" target="_blank">Dynamic prediction of survival with many longitudinal predictors: an empirical evaluation</a></td>
     </tr>
     <tr>
       <td>23 May 2023 12:00</td>
