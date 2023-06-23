@@ -30,13 +30,15 @@ with an abstract of the talk and other relevant details (time, room, etc.).
       <td>28 June 2023 12:00</td>
       <td>176</td>
       <td>Raf Cruyff</td>
-      <td>TBD</td>
+      <td><a href="{{ site.url }}/2023/06/28/18th-group-meeting" target="_blank">Predicting sub-types of ductal carcinoma in
+situ using whole-slide images:
+A deep learning approach</a></td>
     </tr>
     <tr>
       <td>13 June 2023 12:00</td>
       <td>176</td>
       <td>Vera Arntzen</td>
-      <td>TBD</td>
+      <td><a href="{{ site.url }}/2023/06/13/17th-group-meeting" target="_blank">When exactly? Two overlooked  biases in SARS-CoV-2 incubation time estimation related to information regarding exposure</a></td>
     </tr>
     <tr>
       <td>06 June 2023 15:00</td>
