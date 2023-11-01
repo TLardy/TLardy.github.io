@@ -12,7 +12,11 @@ title: Home
       </a>
     </h1>
 
+    {% if post.location %}
+    <span class="post-date">{{ post.date | date_to_string }} {{ post.time }}, {{post.location}} </span>
+    {% else %}
     <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% endif %}
 
     {{ post.content }}
   </div>
