@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>07 Nov. 2023 12:00</td>
+      <td>176</td>
+      <td>Hein Putter</td>
+      <td><a href="{{ site.url }}/2023/11/07/putter" target="_blank">Fine-Gray subdistribution hazard models to simultaneously estimate the absolute risk of different event types: Cumulative total failure probability may exceed 1</a></td>
+    </tr>
+    <tr>
       <td>28 June 2023 12:00</td>
       <td>176</td>
       <td>Raf Cruyff</td>
