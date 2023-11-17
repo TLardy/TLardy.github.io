@@ -8,6 +8,11 @@ title: Research
 * Peter Grünwald, Alexander Henzi & Tyron Lardy (2023) *Anytime-Valid Tests of Conditional Independence Under Model-X*, Journal of the American Statistical Association, 
 DOI: <a href="https://doi.org/10.1080/01621459.2023.2205607" target="_blank">10.1080/01621459.2023.2205607</a>
 
+* Peter Harremoës, Tyron Lardy & Peter Grünwald (2023) *Universal Reverse Information Projections and Optimal E-statistics*, IEEE International Symposium on Information Theory (ISIT), Taipei, Taiwan, 2023, pp. 394-399,
+DOI: <a href="https://doi.org/10.1109/ISIT54713.2023.10206494" target="_blank">10.1109/ISIT54713.2023.10206494</a>
+
+
+
 
 ## Preprints
 
