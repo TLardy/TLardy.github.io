@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>28 Nov. 2023 11:00</td>
+      <td>176</td>
+      <td>Ed Bonneville</td>
+      <td><a href="{{ site.url }}/2023/11/28/bonneville" target="_blank">Competing risks and multiple imputation of missing covariates</a></td>
+    </tr>
+    <tr>
       <td>07 Nov. 2023 12:00</td>
       <td>176</td>
       <td>Hein Putter</td>
