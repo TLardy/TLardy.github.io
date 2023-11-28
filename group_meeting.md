@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>05 Dec. 2023 12:00</td>
+      <td>176</td>
+      <td>Patrick Forré</td>
+      <td><a href="{{ site.url }}/2023/12/05/forre" target="_blank">Conditional Independence - Revisited</a></td>
+    </tr>
+    <tr>
       <td>28 Nov. 2023 11:00</td>
       <td>176</td>
       <td>Ed Bonneville</td>
