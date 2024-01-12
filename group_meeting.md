@@ -27,10 +27,10 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
-      <td>20 Dec. 2023 11:00</td>
+      <td>23 Jan. 2024 13:00</td>
       <td>176</td>
-      <td>Ernst C. Wit</td>
-      <td><a href="{{ site.url }}/2023/12/19/wit" target="_blank">Extensions to modelling relational events (with application to global alien species invasions between 1880 and 2005)</a></td>
+      <td>Alexander Orcutt</td>
+      <td><a href="{{ site.url }}/2024/01/23/orcutt" target="_blank">Transportation-based change point detection for functional covariance</a></td>
     </tr>
     <tr>
       <td>05 Dec. 2023 12:00</td>
