@@ -27,6 +27,18 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>19 March 2024 13:00</td>
+      <td>176</td>
+      <td>TBD</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>20 Feb. 2024 13:00</td>
+      <td>176</td>
+      <td>Lana Broer</td>
+      <td><a href="{{ site.url }}/2024/02/20/broer" target="_blank">PSA dynamics in metastatic prostate cancer: investigating the relationship between PSA trajectories and clinical benefit - a joint modeling and landmark approach</a></td>
+    </tr>
+    <tr>
       <td>23 Jan. 2024 13:00</td>
       <td>176</td>
       <td>Alexander Orcutt</td>
