@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>16 April 2024 13:00</td>
+      <td>BM.2.26</td>
+      <td>Henk van der Pol</td>
+      <td><a href="{{ site.url }}/2024/04/16/vdpol" target="_blank">Applying e-values to the logistic regression model</a></td>
+    </tr>
+    <tr>
       <td>19 March 2024 13:00</td>
       <td>BM.2.26</td>
       <td>Tyron Lardy</td>
