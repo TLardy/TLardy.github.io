@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>30 April 2024 13:00</td>
+      <td>BM.2.26</td>
+      <td>Dimitra Eleftheriou</td>
+      <td><a href="{{ site.url }}/2024/04/30/eleftheriou" target="_blank">Dirichlet Process Gaussian Mixture Models: an application in prostate cancer prediction</a></td>
+    </tr>
+    <tr>
       <td>16 April 2024 13:00</td>
       <td>BM.2.26</td>
       <td>Henk van der Pol</td>
