@@ -27,6 +27,18 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>04 June 2024 12:00</td>
+      <td>BM.2.26</td>
+      <td>Marco Alfo </td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>21 May 2024 13:00</td>
+      <td>BM.2.26</td>
+      <td>Marta Cipriani </td>
+      <td><a href="{{ site.url }}/2024/05/21/cipriani" target="_blank">A Flexible Parametric Approach to Synthetic Patients Generation in Clinical Trials</a></td>
+    </tr>
+    <tr>
       <td>30 April 2024 13:00</td>
       <td>BM.2.26</td>
       <td>Dimitra Eleftheriou</td>
