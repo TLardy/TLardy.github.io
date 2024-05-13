@@ -23,3 +23,5 @@ PDF: <a href="https://rdcu.be/dwQFa" target="_blank">springer</a>
 arXiv preprint <a href="https://arxiv.org/abs/2208.07610" target="_blank">arXiv:2208.07610</a> 
 
 * Tyron Lardy, Muriel Felipe Pérez-Ortiz (2024) *Anytime-Valid Tests of Group Invariance through Conformal Prediction*, arXiv preprint <a href="https://arxiv.org/abs/2401.15461" target="_blank">arXiv:2401.15461</a>
+
+* Peter Grünwald, Tyron Lardy, Yunda Hao, Shaul K. Bar-Lev, Martijn de Jong (2024) *Optimal E-values for Exponential Families: the Simple Case*, arXiv preprint <a href="https://arxiv.org/abs/2404.19465" target="_blank">arXiv:2404.19465</a>
