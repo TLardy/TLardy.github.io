@@ -33,6 +33,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
       <td>TBD</td>
     </tr>
     <tr>
+      <td>23 May 2024 12:00</td>
+      <td>BM.2.26</td>
+      <td>Eugenia Driusso</td>
+      <td><a href="{{ site.url }}/2024/05/23/driusso" target="_blank">Statistical modelling of time-stamped hypergraphs: a model-based clustering approach</a></td>
+    </tr>
+    <tr>
       <td>21 May 2024 13:00</td>
       <td>BM.2.26</td>
       <td>Marta Cipriani </td>
