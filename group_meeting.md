@@ -30,7 +30,7 @@ with an abstract of the talk and other relevant details (time, room, etc.).
       <td>04 June 2024 12:00</td>
       <td>BM.2.26</td>
       <td>Marco Alfo </td>
-      <td>TBD</td>
+      <td><a href="{{ site.url }}/2024/06/04/alfo" target="_blank">Endogeneity in longitudinal modelling. A solution based on finite mixtures</a></td>
     </tr>
     <tr>
       <td>23 May 2024 12:00</td>
