@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>18 June 2024 12:00</td>
+      <td>BM.2.26</td>
+      <td>Victor van der Horst </td>
+      <td><a href="{{ site.url }}/2024/06/18/horst" target="_blank">Missing data in illness-death model: imputation methods and comparisons</a></td>
+    </tr>
+    <tr>
       <td>04 June 2024 12:00</td>
       <td>BM.2.26</td>
       <td>Marco Alfo </td>
