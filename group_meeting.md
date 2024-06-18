@@ -27,6 +27,12 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>2 July 2024 12:00</td>
+      <td>BM.2.26</td>
+      <td>Jesus Garcia Garcia</td>
+      <td><a href="{{ site.url }}/2024/07/02/garcia" target="_blank">Tight Bounds on Time-varying Causal Effects through a Causal Hazard Ratio</a></td>
+    </tr>
+    <tr>
       <td>18 June 2024 12:00</td>
       <td>BM.2.26</td>
       <td>Victor van der Horst </td>
