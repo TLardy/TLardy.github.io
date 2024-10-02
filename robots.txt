@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tlardy.github.io/sitemap.xml
