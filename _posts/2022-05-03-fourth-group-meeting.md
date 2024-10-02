@@ -4,7 +4,7 @@ title: Uncertainty quantification using Gaussian Process with squared exponentia
 ---
 
 The fourth statistics group meeting will be held on Tuesday 10/05 from 13.00 to 14.00 in Snellius 402.
-The speaker for this meeting is <a href="https://www.universiteitleiden.nl/en/staffmembers/amine-hadji#tab-1" target="_blank">Amine Hadji</a>.
+The speaker for this meeting is Amine Hadji.
 Amine started his PhD at Leiden University in 2016, focussing mainly on the theoretical study of Bayesian non-parametric methods.
 He has currently taken on a role as lecturer, while finishing his PhD. His talk will give us a glimpse of the research he has been doing:
 
