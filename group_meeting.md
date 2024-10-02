@@ -27,6 +27,24 @@ with an abstract of the talk and other relevant details (time, room, etc.).
   </thead>
   <tbody>
     <tr>
+      <td>29 October 2024 12:00</td>
+      <td><b>BW.2.18a</b></td>
+      <td>Yilin Jiang</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>15 October 2024 12:00</td>
+      <td>BM.2.26</td>
+      <td>Daniel Gomon</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>2 October 2024 13:00</td>
+      <td>BM.2.26</td>
+      <td>Marta Cipriani</td>
+      <td><a href="{{ site.url }}/2024/10/02/cipriani" target="_blank">A multiple imputation approach to distinguish curative from life-prolonging effects in the presence of missing covariates</a></td>
+    </tr>
+    <tr>
       <td>2 July 2024 12:00</td>
       <td>BM.2.26</td>
       <td>Jesus Garcia Garcia</td>
