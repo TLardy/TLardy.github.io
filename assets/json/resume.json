@@ -23,7 +23,7 @@
       "startDate": "2021-08-15",
       "endDate": "",
       "summary": "Mathematical Statistics.",
-      "highlights": ["E-values","Anytime-Valid Inference"]
+      "highlights": ["E-values", "Anytime-Valid Inference"]
     },
     {
       "name": "Plugwise",
@@ -32,7 +32,7 @@
       "startDate": "2016-07-01",
       "endDate": "2021-10-01",
       "summary": "Assisted in the development of embedded software for smart heating control.",
-      "highlights": ["Lua","Python","Linux"]
+      "highlights": ["Lua", "Python", "Linux"]
     },
     {
       "name": "Leiden University",
@@ -41,7 +41,7 @@
       "startDate": "2019-09-01",
       "endDate": "2021-07-31",
       "summary": "Graded homework and provided exercise classes for:",
-      "highlights": ["Machine Learning Theory","Information Theoretic Learning","Foundations of Statistics and Machine Learning"]
+      "highlights": ["Machine Learning Theory", "Information Theoretic Learning", "Foundations of Statistics and Machine Learning"]
     }
   ],
   "education": [

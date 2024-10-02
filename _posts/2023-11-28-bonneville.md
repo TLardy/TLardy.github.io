@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Competing risks and multiple imputation of missing covariates (Ed Bonneville)"
+title: " Competing risks and multiple imputation of missing covariates (Ed Bonneville)"
 location: "Snellius 176"
 time: "11:00 - 12:00"
 ---

@@ -5,5 +5,14 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+"AoS":
+  url: https://imstat.org/journals-and-publications/annals-of-statistics/
+
+"JASA":
+  url: https://www.tandfonline.com/toc/uasa20/current
+
+"IEEE":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18
+
 "Vision":
   color: "#009f36"

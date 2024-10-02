@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "When exactly? Two overlooked  biases in SARS-CoV-2 incubation time estimation related to information regarding exposure (Vera Arntzen)"
+title: "When exactly? Two overlooked  biases in SARS-CoV-2 incubation time estimation related to information regarding exposure (Vera Arntzen)"
 ---
 
 The seventeenth statistics group meeting will take place on 13/06 from 12:00-13:00 in Snellius 176.

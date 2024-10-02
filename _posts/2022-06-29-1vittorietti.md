@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: Does taking additional Maths classes in high school affect academic outcomes?
 ---
 

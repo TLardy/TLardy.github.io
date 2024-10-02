@@ -3,7 +3,7 @@ layout: post
 title: Depth conditioned functional curves (Alexander Dürre)
 ---
 
-The eighth statistics group meeting will take place on Tuesday Nov. 1st from 12:30-13:30 in Snellius 176. 
+The eighth statistics group meeting will take place on Tuesday Nov. 1st from 12:30-13:30 in Snellius 176.
 Alexander Dürre, the newest addition to the statistics group, will introduce us to some of his work:
 
 <em>

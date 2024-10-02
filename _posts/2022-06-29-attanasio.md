@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: Can statistics be helpful in detecting electoral fraud?
 ---
 

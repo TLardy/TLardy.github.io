@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Vertical models in the presence of random effects (Salvatore Battaglia). 
+title: Vertical models in the presence of random effects (Salvatore Battaglia).
 ---
 
-The seventh instalment of the statistics group meeting will take place on Tuesday 11/10 from 12:00 to 13:00 in Snellius 176. 
+The seventh instalment of the statistics group meeting will take place on Tuesday 11/10 from 12:00 to 13:00 in Snellius 176.
 During this meeting, guest speaker Salvatore Battaglia will present the results of the research he performed during six fruitful months at the MI:
 
 <em>

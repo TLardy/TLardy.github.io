@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the <a href="https://www.universiteitleiden.nl/en/science/mathematics" target="_blank">Mathematical Institute</a> of Leiden University, supervised by <a href="http://www.grunwald.nl" target="_blank">Peter Grünwald</a>. 
+I am a PhD student at the <a href="https://www.universiteitleiden.nl/en/science/mathematics" target="_blank">Mathematical Institute</a> of Leiden University, supervised by <a href="http://www.grunwald.nl" target="_blank">Peter Grünwald</a>.
 My primary research interests are in mathematical statistics, with a particular focus on anytime-valid inference and e-values.
 You can find my publications and preprints [here]({{ site.url }}/research).
 You can also find information about the statistics seminar at Leiden University [here]({{ site.url }}/schedule).

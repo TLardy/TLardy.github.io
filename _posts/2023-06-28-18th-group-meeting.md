@@ -6,7 +6,7 @@ A deep learning approach (Raf Cruyff)"
 ---
 
 The eighteenth statistics group meeting will take place on 28/06 from 12:00-13:00 in Snellius 176.
-Raf Cruyff will tell us about the research he has been doing for his master's thesis. 
+Raf Cruyff will tell us about the research he has been doing for his master's thesis.
 
 <em>
 Accurate classification of ductal carcinoma in situ (DCIS) subtypes is crucial

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Learning star shaped distributions: a mixed approach (Eva Riccomagno)" 
+title: "Learning star shaped distributions: a mixed approach (Eva Riccomagno)"
 ---
 
-The eleventh statistics group meeting will take place on Tuesday Jan. 31st from 12:30-13:30 in Snellius 176. 
+The eleventh statistics group meeting will take place on Tuesday Jan. 31st from 12:30-13:30 in Snellius 176.
 We will be joined by prof. dr. Eva Riccomagno from the department of Mathematics at the University of Genova:
 
 <em>

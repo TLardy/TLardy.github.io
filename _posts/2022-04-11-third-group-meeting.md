@@ -5,8 +5,8 @@ title: "Continuous time control charts: detecting changes in the quality of care
 
 The third statistics group meeting will be held on Tuesday 26/04 from 13.00 to 14.00 in Snellius 402.
 The speaker for this meeting is <a href="https://www.universiteitleiden.nl/en/staffmembers/daniel-gomon#tab-1" target="_blank">Daniel Gomon</a>.
-Daniel started his PhD at Leiden University in 2021, continuing the research he did for his Master's project on continuous time control charts. 
-This work won him the prize of <a href="https://platformwiskunde.nl/msc-thesisprijs/" target="_blank">'Best Thesis in Applied Math Award 2021'</a> awarded by Platform Wiskunde Nederland. 
+Daniel started his PhD at Leiden University in 2021, continuing the research he did for his Master's project on continuous time control charts.
+This work won him the prize of <a href="https://platformwiskunde.nl/msc-thesisprijs/" target="_blank">'Best Thesis in Applied Math Award 2021'</a> awarded by Platform Wiskunde Nederland.
 He will delight us with a modified version of the talk that impressed the judges:
 
 <em>

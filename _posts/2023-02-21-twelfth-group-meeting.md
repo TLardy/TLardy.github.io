@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Anytime-Valid Tests of Conditional Independence Under Model-X (Tyron Lardy)
+title: Anytime-Valid Tests of Conditional Independence Under Model-X (Tyron Lardy)
 ---
 
 The twelfth statistics group meeting will take place on 21/02 from 12:00-13:00 in Snellius 176. I (Tyron Lardy) will present some of the work I have been doing since the start of my PhD.

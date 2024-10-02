@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dirichlet Process Gaussian Mixture Models: an application in prostate cancer prediction (Dimitra Eleftheriou)"
+title: "Dirichlet Process Gaussian Mixture Models: an application in prostate cancer prediction (Dimitra Eleftheriou)"
 location: "BM.2.26 (2nd floor B-wing of the Gorlaeus)"
 time: "12:00 - 13:00"
 ---

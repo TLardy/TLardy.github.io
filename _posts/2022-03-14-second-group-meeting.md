@@ -3,11 +3,11 @@ layout: post
 title: Second Statistics Group Meeting (prof. Peter Grünwald)
 ---
 
-The second statistics group meeting will be held Tuesday 22/03 from 13.00 to 14.00 in Snellius 401. 
+The second statistics group meeting will be held Tuesday 22/03 from 13.00 to 14.00 in Snellius 401.
 The speaker for this meeting is <a href="http://www.grunwald.nl" target="_blank">Prof. dr. P. Grünwald</a>.
-Peter is head of the machine learning group at CWI in Amsterdam and has been professor at Leiden University since 2008. 
-Currently, much of his work is focussed on hypothesis tests that are safe under optional stopping and continuation. 
-His talk ‘E is for Evidence’ will give an introduction to this world of safe testing. 
+Peter is head of the machine learning group at CWI in Amsterdam and has been professor at Leiden University since 2008.
+Currently, much of his work is focussed on hypothesis tests that are safe under optional stopping and continuation.
+His talk ‘E is for Evidence’ will give an introduction to this world of safe testing.
 A brief appetizer:
 
 <em>
