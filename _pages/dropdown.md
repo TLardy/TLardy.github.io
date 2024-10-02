@@ -1,16 +1,13 @@
 ---
 layout: page
-title: submenus
+title: statistics seminar
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: schedule
+    permalink: /schedule/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: talks
+    permalink: /talks/
 ---
