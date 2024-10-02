@@ -54,7 +54,7 @@
       "endDate": "2021-07-31",
       "startDate": "2018-09-01",
       "score": "Cum Laude",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "Leiden University",
@@ -65,7 +65,7 @@
       "endDate": "2018-07-31",
       "startDate": "2014-09-01",
       "score": "",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "Leiden University",
@@ -76,7 +76,7 @@
       "endDate": "2018-07-31",
       "startDate": "2014-09-01",
       "score": "",
-      "courses": [""]
+      "courses": ""
     }
   ],
   "certificates": [
