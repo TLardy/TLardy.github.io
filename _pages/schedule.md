@@ -38,7 +38,7 @@ with an abstract of the talk and other relevant details.
       <td>15 October 2024 12:00</td>
       <td>BM.2.26</td>
       <td>Daniel Gomon</td>
-      <td>TBD</td>
+      <td><a href="{{ site.url }}/talk/2024/10/15/gomon" target="_blank">Non-parametric estimation of transition intensities in interval censored Markov multi-state models without loops</a></td>
     </tr>
     <tr>
       <td>2 October 2024 13:00</td>
