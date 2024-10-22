@@ -32,7 +32,7 @@ with an abstract of the talk and other relevant details.
       <td>29 October 2024 12:00</td>
       <td><b>BW.2.18a</b></td>
       <td>Yilin Jiang</td>
-      <td>TBD</td>
+      <td><a href="{{ site.url }}/talk/2024/10/29/jiang" target="_blank">A general approach to fitting multistate cure models based on an extended-long-format data structure</a></td>
     </tr>
     <tr>
       <td>15 October 2024 12:00</td>
