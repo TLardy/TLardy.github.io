@@ -29,6 +29,12 @@ with an abstract of the talk and other relevant details.
   </thead>
   <tbody>
     <tr>
+      <td>26 November 2024 14:00</td>
+      <td>BM.2.26</td>
+      <td>Astrid Stulemeijer</td>
+      <td><a href="{{ site.url }}/talk/2024/11/26/stulemeijer" target="_blank">The Sensitivity of Stochastic Actor-Oriented Models to Measurement Errors: a Simulation Study</a></td>
+    </tr>
+    <tr>
       <td>29 October 2024 12:00</td>
       <td><b>BW.2.18a</b></td>
       <td>Yilin Jiang</td>
