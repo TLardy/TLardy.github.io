@@ -29,6 +29,24 @@ with an abstract of the talk and other relevant details.
   </thead>
   <tbody>
     <tr>
+        <td>18 February 2025 11:00</td>
+        <td>BM.2.26</td>
+        <td>Thorsten Dickhaus</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>11 February 2025 12:00</td>
+        <td>BM.2.26</td>
+        <td>Yuan Liu</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>28 January 2025 12:00</td>
+        <td>BM.2.26</td>
+        <td>Tianjiao Yan</td>
+        <td><a href="{{ site.url }}/talk/2025/01/28/yan" target="_blank">Limiting Behaviours for Maximum of Weighted Sums of WOD Random Variables and its Applications</a></td>
+    </tr>
+    <tr>
       <td>26 November 2024 14:00</td>
       <td>BM.2.26</td>
       <td>Astrid Stulemeijer</td>
