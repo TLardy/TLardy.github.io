@@ -38,11 +38,11 @@ with an abstract of the talk and other relevant details.
         <td>11 February 2025 12:00</td>
         <td>BM.2.26</td>
         <td>Yuan Liu</td>
-        <td>TBD</td>
+        <td><a href="{{ site.url }}/talk/2025/02/11/liu" target="_blank">Causal Inference with Outcomes Truncated by Death and Missing Not at Random</a></td>
     </tr>
     <tr>
-        <td>28 January 2025 12:00</td>
-        <td>BM.2.26</td>
+        <td><b>To be rescheduled</b></td>
+        <td>n.a.</td>
         <td>Tianjiao Yan</td>
         <td><a href="{{ site.url }}/talk/2025/01/28/yan" target="_blank">Limiting Behaviours for Maximum of Weighted Sums of WOD Random Variables and its Applications</a></td>
     </tr>
